@@ -1,0 +1,17 @@
+{
+  "name": "valentine-main",
+  "version": "1.0.0",
+  "description": "This is a fun and interactive Valentine’s Day proposal website that playfully encourages the user to accept the proposal. If they keep clicking \"No,\" the button text changes, the \"Yes\" button grows, and cute GIFs appear. Eventually, when they click \"Yes,\" confetti bursts to celebrate the moment! 🎉",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "helmet": "^8.0.0"
+  }
+}

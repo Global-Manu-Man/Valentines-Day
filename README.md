@@ -1,4 +1,3 @@
-Claro, aquí tienes un archivo `README.md` profesional y detallado en español, adaptado a tu proyecto de San Valentín:
 
 ```markdown
 # 💝 Sitio Web de Propuesta de San Valentín 
