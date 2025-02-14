@@ -37,7 +37,7 @@ noButton.addEventListener('click', () => {
 
 yesButton.addEventListener('click', () => {
     imageDisplay.src = imagePaths[imagePaths.length - 1];
-    valentineQuestion.innerHTML = 'Yayyy!! :3 <br> Te amo mucho mucho mucho <3';
+    valentineQuestion.innerHTML = 'Betsy!! :3 <br> Te amo mucho mucho mucho <3';
     responseButtons.style.display = 'none';
         // Ejecuta ambos efectos
         confetti();

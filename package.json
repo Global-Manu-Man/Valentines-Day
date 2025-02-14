@@ -4,8 +4,9 @@
   "description": "This is a fun and interactive Valentine’s Day proposal website that playfully encourages the user to accept the proposal. If they keep clicking \"No,\" the button text changes, the \"Yes\" button grows, and cute GIFs appear. Eventually, when they click \"Yes,\" confetti bursts to celebrate the moment! 🎉",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "build": "echo 'Skipping build step, deploying static files'",
+    "start": "echo 'Cloudflare Pages does not use start scripts'",
+    "deploy": "wrangler pages publish public"
   },
   "keywords": [],
   "author": "",
